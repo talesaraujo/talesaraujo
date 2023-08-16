@@ -40,6 +40,6 @@ Here are some ideas to get you started:
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 -->
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=talesaraujo&count_private=true&show_icons=true&include_all_commits=true&theme=nord)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=talesaraujo&hide=TeX&layout=compact&theme=nord)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=talesaraujo&count_private=true&show_icons=true&include_all_commits=true&theme=github_dark_dimmed)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=talesaraujo&hide=TeX&layout=compact&theme=github_dark_dimmed)
 
