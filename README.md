@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 -->
 ![Python](https://img.shields.io/badge/-Python-4B8BBE?&logo=Python&logoColor=fff)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?&logo=FastAPI&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?&logo=flask&logoColor=white))
 ![Pandas](https://img.shields.io/badge/-pandas-150458?&logo=pandas&logoColor=white)
 ![SpaCy](https://img.shields.io/badge/-spaCy-09A3D5?&logo=spaCy&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/-Scikit_Learn-F7931E?&logo=scikit-learn&logoColor=white)
