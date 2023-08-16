@@ -20,6 +20,6 @@ Here are some ideas to get you started:
 
 ## Technologies
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=igormcsouza&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igormcsouza&hide=TeX&layout=compact)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=talesaraujo&count_private=true&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=talesaraujo&hide=TeX&layout=compact)
 
