@@ -39,6 +39,26 @@ Here are some ideas to get you started:
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 -->
+![Python](https://img.shields.io/badge/-Python-4B8BBE?&logo=Python&logoColor=fff)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?&logo=FastAPI&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Pandas](https://img.shields.io/badge/-pandas-150458?&logo=pandas&logoColor=white)
+![SpaCy](https://img.shields.io/badge/-spaCy-09A3D5?&logo=spaCy&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/-Scikit_Learn-F7931E?&logo=scikit-learn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-Pytorch-EE4C2C?&logo=Pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?&logo=TensorFlow&logoColor=white)
+
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-f0db4f?&logo=JavaScript&logoColor=fff)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+
+![SQL](https://img.shields.io/badge/-SQL-5586A4?&logo=databricks&logoColor=white)
+![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=Plastic&logo=latex&logoColor=white)
+
+![C](https://img.shields.io/badge/-C-888?&logo=C&logoColor=fff)
+![C++](https://img.shields.io/badge/-C++-00599C?&logo=c%2b%2b)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=talesaraujo&count_private=true&show_icons=true&include_all_commits=true&theme=github_dark_dimmed)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=talesaraujo&hide=TeX&layout=compact&theme=github_dark_dimmed)
