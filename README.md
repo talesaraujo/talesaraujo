@@ -3,7 +3,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/talesaraujo?style=social)
 [![Linkedin: talesaraujo](https://img.shields.io/badge/-talesaraujo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/talesaraujo/)](https://www.linkedin.com/in/talesaraujo/)
 
-I'm a Computer-Engineering Bachelor at Universidade Federal do Ceará and Software Developer at DELL Lead. I hold a great interest in learning, as well as Data Science and Machine Learning itself, CS fields I consider myself as an enthusiast. I tend to think I am a Python lover, but let's say I know my way around when it comes to other languages. My hope is that I can work and contribute to an awesome project or something that brings major positive impacts on people's lives, as well as in my own personal growth and experience. 
+I'm a Computer-Engineering Bachelor at Universidade Federal do Ceará and Data Engineer at SONDA. I hold a great interest in learning, as well as Data Science and Machine Learning itself, CS fields I consider myself as an enthusiast. I tend to think I am a Python lover, but let's say I know my way around when it comes to other languages. My hope is that I can work and contribute to an awesome project or something that brings major positive impacts on people's lives, as well as in my own personal growth and experience. 
 
 <!--
 Here are some ideas to get you started:
